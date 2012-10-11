@@ -1,4 +1,4 @@
 HealthVault-Windows8
 ====================
 
-HealthVault Library for Windows 8 (Coming Soon!)
+Get the HealthVault Library for Windows 8 from: http://healthvaultwin8.codeplex.com/
